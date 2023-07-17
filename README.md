@@ -1,2 +1,2 @@
 # alouga
-Alcool ou Gasolina
+Álcool ou Gasolina
